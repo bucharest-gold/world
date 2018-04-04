@@ -1,0 +1,12 @@
+{
+  "name": "world",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Lance Ball",
+  "license": "Apache-2.0",
+  "files": [
+    "package.json",
+    "LICENSE",
+    "index.js"
+  ]
+}
